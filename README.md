@@ -9,7 +9,7 @@ Un proyecto simple y divertido para sortear al amigo secreto, desarrollado como 
 
 ## 🖼️ Vista Previa del Proyecto
 
-![Vista previa de la aplicación Amigo Secreto]([https://imgur.com/a/JTA5wN5])
+![Vista previa de la aplicación Amigo Secreto](https://i.imgur.com/0CRTEWb.png)
 _¡Una interfaz limpia y fácil de usar para organizar tu sorteo!_
 
 ---
@@ -46,7 +46,7 @@ No necesitas instalar nada para probar la aplicación. Solo sigue estos pasos:
 
 1.  Clona este repositorio en tu máquina local.
     ```bash
-    git clone [https://github.com/bryamaranguri/alura-amigo-secreto]
+    git clone https://github.com/bryamaranguri/alura-amigo-secreto
     ```
 2.  Navega a la carpeta del proyecto.
 3.  Abre el archivo `index.html` en tu navegador web preferido.
